@@ -1,0 +1,20 @@
+.star-rating {
+  height: fit-content;
+  width: fit-content;
+  font-size: 18px;
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2px;
+}
+
+.star-rating .filled {
+  height: fit-content;
+  width: fit-content;
+  color: gold;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
